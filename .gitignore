@@ -3,3 +3,8 @@ node_modules/
 .DS_Store
 .netlify
 public/
+keystore/
+android/app/release/
+android/app/build/
+android/build/
+android/.gradle/

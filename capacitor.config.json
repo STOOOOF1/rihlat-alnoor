@@ -1,0 +1,8 @@
+{
+  "appId": "com.rihlatalnoor.game",
+  "appName": "رحلة النور",
+  "webDir": "public",
+  "android": {
+    "backgroundColor": "#071226"
+  }
+}

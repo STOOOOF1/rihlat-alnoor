@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+<defs>
+<radialGradient id="bg" cx="50%" cy="40%" r="70%"><stop offset="0" stop-color="#1f4c8f"/><stop offset="1" stop-color="#071226"/></radialGradient>
+<radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#fff2b8" stop-opacity=".95"/><stop offset=".45" stop-color="#ffc85a" stop-opacity=".45"/><stop offset="1" stop-color="#ffc85a" stop-opacity="0"/></radialGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff1c1"/><stop offset=".5" stop-color="#e9b949"/><stop offset="1" stop-color="#a87418"/></linearGradient>
+</defs>
+<g id="lamp" transform="translate(512 530)">
+<circle r="330" fill="url(#glow)"/>
+<circle cx="0" cy="-250" r="34" fill="none" stroke="url(#gold)" stroke-width="18"/>
+<path d="M-95-120 L0-215 L95-120 Z" fill="url(#gold)"/>
+<rect x="-120" y="-128" width="240" height="34" rx="12" fill="#b8862a"/>
+<path d="M-104-94 H104 L132 150 H-132 Z" fill="#ffe7a8" stroke="url(#gold)" stroke-width="16"/>
+<path d="M0-94 V150 M-56-94 L-74 150 M56-94 L74 150" stroke="#c9952e" stroke-width="10"/>
+<ellipse cx="0" cy="40" rx="46" ry="70" fill="#fffdf0"/>
+<rect x="-150" y="146" width="300" height="40" rx="12" fill="#b8862a"/>
+<path d="M-70 186 H70 L42 262 H-42 Z" fill="url(#gold)"/>
+</g>
+</svg>
